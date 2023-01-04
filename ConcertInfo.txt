@@ -1,4 +1,4 @@
 Time:
 KST_PLUS_9;
 JUNNY:
-JUNNY_2023/01/01_15/55/DelayTime-60/PlayTime-536-715-576_ConcetCnt/3;
+JUNNY_2023/01/04_15/20/DelayTime-60/PlayTime-536-715-576_ConcetCnt/3;
